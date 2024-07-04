@@ -1,5 +1,3 @@
-#Html weppack
-
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
