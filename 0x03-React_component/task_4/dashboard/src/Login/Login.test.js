@@ -12,4 +12,4 @@ describe("Header", () => {
     expect(wrapper.find("label")).toHaveLength(2);
     expect(wrapper.find("input")).toHaveLength(2);
   });
-});
+}); 

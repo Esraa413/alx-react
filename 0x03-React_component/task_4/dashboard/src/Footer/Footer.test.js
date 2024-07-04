@@ -12,4 +12,4 @@ describe("Footer test", () => {
     const wrapper = shallow(<Footer />);
     expect(wrapper.text()).toEqual(`Copyright ${getFullYear()} - ${getFooterCopy()}`);
   });
-});
+}); 
