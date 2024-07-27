@@ -1,0 +1,1 @@
+redux_action_creator_normalizr
